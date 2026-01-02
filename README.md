@@ -23,8 +23,8 @@ This project is a complete end-to-end Data Science pipeline designed to predict 
 * **Mean Absolute Error (MAE):** 0.26 (Log scale).
 
 ## 🚀 Deployment Strategy
-This project is built using free, open-source tools [cite: 2025-12-27]. The final model is saved as a `.pkl` file, ready to be deployed on:
-* **AWS** / **GCP** / **Azure** [cite: 2025-12-21].
+This project is built using free, open-source tools. The final model is saved as a `.pkl` file, ready to be deployed on:
+* **AWS** / **GCP** / **Azure**.
 
 ---
 🔗 **Github Repository:** [Insert Your Repo Link Here]
