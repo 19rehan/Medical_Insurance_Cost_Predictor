@@ -28,6 +28,5 @@ This project is a complete end-to-end Data Science pipeline designed to predict 
 This project is built using free, open-source tools. The final model is saved as a `.pkl` file, ready to be deployed on:
 * **AWS** / **GCP** / **Azure**.
 
-
 ---
 🔗 **Github Repository:** [https://github.com/19rehan]
