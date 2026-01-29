@@ -18,6 +18,7 @@ This project is a complete end-to-end Data Science pipeline designed to predict 
 ### 2. Feature Engineering
 * **Log Transformation:** Used `np.log1p` on the `charges` column to create a **Normal Distribution**, which is critical for Linear Regression success.
 * **One-Hot Encoding:** Transformed categorical variables like `sex`, `smoker`, and `region` into binary numbers for mathematical processing.
+* 
 
 ### 3. Model Training & Evaluation
 * **Train-Test Split:** Used an 80/20 split to ensure the model was tested on "unseen" data for real-world reliability.
