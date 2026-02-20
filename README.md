@@ -10,7 +10,6 @@ This project is a complete end-to-end Data Science pipeline designed to predict 
 
 ## 🛠️ Data Science Workflow
 
-
 ### 1. Data Cleaning & Logic
 * **Negative Value Correction:** Identified and removed logically impossible data (e.g., negative children counts) to maintain data integrity.
 * **Outlier Strategy:** Analyzed BMI and Age outliers and decided to keep them as they represent real-world medical risks rather than errors.
