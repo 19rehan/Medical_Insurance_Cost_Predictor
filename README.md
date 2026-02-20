@@ -15,6 +15,7 @@ This project is a complete end-to-end Data Science pipeline designed to predict 
 ### 1. Data Cleaning & Logic
 * **Negative Value Correction:** Identified and removed logically impossible data (e.g., negative children counts) to maintain data integrity.
 * **Outlier Strategy:** Analyzed BMI and Age outliers and decided to keep them as they represent real-world medical risks rather than errors.
+* 
 
 ### 2. Feature Engineering
 * **Log Transformation:** Used `np.log1p` on the `charges` column to create a **Normal Distribution**, which is critical for Linear Regression success.
