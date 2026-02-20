@@ -2,7 +2,6 @@
 
 This project is a complete end-to-end Data Science pipeline designed to predict medical insurance premiums. It focuses on data quality, statistical normalization, and fairness auditing before training a **Linear Regression** model.
 
-
 ## 🎯 Project Highlights
 * **Accuracy:** Achieved an **80% $R^2$ Score**, meaning the model explains 80% of the variance in insurance costs.
 * **Reliability:** Applied **Log Transformation** to handle skewed data and ensure the model learns effectively.
